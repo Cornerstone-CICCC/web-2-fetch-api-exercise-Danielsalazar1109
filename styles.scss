@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(0, 255, 0);
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1,#timezone{
+    font-size: 50px;
+    font-weight: bolder;
+    color: yellow;
+}
+
+#temperature{
+    font-size: 150px;
+    font-weight: bolder;
+    margin: 0;
+    color:rgb(199, 3, 3);
+}
+
+#wind-speed,#time{
+    font-size: 50px;
+    color:purple;
+}
